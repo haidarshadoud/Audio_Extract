@@ -2,3 +2,4 @@ venv/
 .venv/
 input/
 output/
+__pycache__/
